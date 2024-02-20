@@ -2,12 +2,13 @@ package com.silsTechnologie.metier;
 
 
 import com.silsTechnologie.dao.IDao;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
+@Component("metier")
 public class MetierImpl implements IMetier {
-    private IDao dao;
 
-    public MetierImpl() {
-    }
+    private IDao dao;
 
     public MetierImpl(IDao dao) {
         this.dao = dao;

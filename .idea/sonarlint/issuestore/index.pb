@@ -19,3 +19,7 @@ c
 3src/main/java/com/silsTechnologie/ext/DaoImpl2.java,e\f\efc3ca68648b6e15f3ebd4635c2e22edd9c99a5e
 q
 Asrc/main/java/com/silsTechnologie/pres/PresentationSpringXml.java,d\d\dd2ef90b0debab84263845d2f4e31df1bc47e423
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+x
+Hsrc/main/java/com/silsTechnologie/pres/PresentationSpringAnnotation.java,c\c\ccd13ba9349731400d49dea38e8079694188924b
